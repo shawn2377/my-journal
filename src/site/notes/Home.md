@@ -7,8 +7,4 @@
 
 ---
 
-```dataview
-LIST 
-FROM ""
-WHERE dg-publish = true AND file.name != this.file.name
-SORT file.ctime DESC
+[[Look-back-2025\|Look-back-2025]]

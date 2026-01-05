@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/my-journal/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/my-journal/","tags":["gardenEntry"]}
 ---
 
 # My journal
 
-This is a test publication.
+[[Look-back-2025\|Look-back-2025]]

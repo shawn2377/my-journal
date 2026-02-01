@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/index/","title":"sp's scratchpad"}
 ---
 
----
-title: sp's scratchpad
-description: Whatever's on top of my mind
----
+------------------------------------------------------------------------
 
 # sp's scratchpad
 

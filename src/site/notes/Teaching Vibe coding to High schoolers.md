@@ -23,7 +23,7 @@ Key takeaways:
 - Couple of them had coding experience like Python and some Javascript.  More than 95% of the code was generated (over 1000 lines per project).
 - Their use of AI tools was limited prior to this experience, and they were truly impressed with how much they were able to do in a short time. One of the kids who codes Python said it would have taken him a month to do this work.  That says a lot!
 
-it was fun to spend time with these students and see how quickly they can adapt and build things they cared about.  The future is in good hands.
+It was fun to spend time with these students and see how quickly they can adapt and build things they cared about.  The future is in good hands.
 
 
 

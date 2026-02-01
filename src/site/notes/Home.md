@@ -8,7 +8,7 @@
 
 ---
 
-
-Jan 3rd 2026 - [[Look-back-2025\|Look-back-2025]]
 Jan 31st 2026 - [[Teaching Vibe coding to High schoolers\|Teaching Vibe coding to High schoolers]]
+Jan 3rd 2026 - [[Look-back-2025\|Look-back-2025]]
+
 

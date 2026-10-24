@@ -1,29 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/teaching-vibe-coding-to-high-schoolers/"}
+{"dg-publish":true,"permalink":"/teaching-vibe-coding-to-high-schoolers/","dg-note-properties":{"publish":true}}
 ---
 
 
-This past week, I had the chance to teach vibe coding to high school students in my son's school.  This was part of wintermission program where teachers and parents get to teach/share programs typically not taught during school year like baking, debating etc.  I was at the school from 8:15 to 10:15 Monday to Friday this past week.  My son was skeptical any body would sign for vibe coding up, but it turned out I had about 9 students who chose to participate.  My son chose not to join and that is for another day :).
+This past week, I had the chance to teach vibe coding to high school students at my son's school. This was part of the Wintermission program, where teachers and parents get to teach topics not typically covered during the school year—things like baking, debating, and apparently, vibe coding.
 
-Going in, I had a rough plan for the week as I had to share something ahead.  Here is to how the week turned out.
+I was at the school from 8:15 to 10:15, Monday through Friday. My son was skeptical anybody would sign up, but it turned out I had about 9 students who chose to participate. My son chose not to join—that's a story for another day :)
 
-Day 1:  Use Claude to create one's profile with some gamification (e.g., quiz to learn about the individual).  Save the profile and open it in VS Code and make a change manually (e.g., use a profile picture) and share it with the rest of the class.
+Going in, I had a rough plan for the week since I had to share something ahead of time. Here's how the week actually turned out:
 
-Day 2: Setup Github accounts and create repos.  Check in the previously created profile page to the repo.  Generate ideas for a group project; vote for the best ideas and form teams.  We had three teams - one group working on a minecraft clone; one group working on a bullet hell game and another on a tool to track expenses.
+**Day 1:** Use Claude to create a personal profile page with some gamification (e.g., a quiz to help others learn about the individual). Save the profile, open it in VS Code, make a change manually (like adding a profile picture), and share it with the class.
 
-Day 3: Created repos for the project. They had clear vision how they wanted the games to be and wrote specification for the game defining all the details and behaviors such stone types,  tools, rendering and sprites for different characters.  They also drew the various characters by hand and started generating sprites using pixel art.  And then presented the plan to the class.  And kicked off on execution. 
+**Day 2:** Set up GitHub accounts and create repos. Check in the previously created profile page. Generate ideas for a group project, vote on the best ones, and form teams. We ended up with three teams—one building a Minecraft clone, one building a bullet hell game, and one creating an expense tracker.
 
-Day 4:  They worked on building the project.  By mid point, they showed an early proof of concept for feedback and discussion.
+**Day 3:** Created repos for each project. The teams had a clear vision for what they wanted to build and wrote detailed specifications—defining things like stone types, tools, rendering, and sprites for different characters. They also drew characters by hand and started generating sprites using pixel art. Then they presented their plans to the class and kicked off execution.
 
-Day 5: They showed the final presentation.  And shared their learnings on vibe coding and the tool they used it.
+**Day 4:** They worked on building. By midpoint, each team showed an early proof of concept for feedback and discussion.
 
-Key takeaways:
-- None of them had a paid subscription to Claude or any of the other AI tools.  They were resourceful in using free tier of Claude, Gemini, Copilot and even LLMArena to generate code for the project.
-- They were not using AI to do things they really cared about like characters and did them manually.  It was impressive to see the the level of thought and detail that went into the character art.
-- Couple of them had coding experience like Python and some Javascript.  More than 95% of the code was generated (over 1000 lines per project).
-- Their use of AI tools was limited prior to this experience, and they were truly impressed with how much they were able to do in a short time. One of the kids who codes Python said it would have taken him a month to do this work.  That says a lot!
+**Day 5:** Final presentations. They shared what they built and their learnings on vibe coding and the tools they used.
 
-It was fun to spend time with these students and see how quickly they can adapt and build things they cared about.  The future is in good hands.
+**Key takeaways:**
+
+- None of them had paid subscriptions to Claude or any other AI tools. They were resourceful, using free tiers of Claude, Gemini, Copilot, and even LMArena to generate code.
+- They weren't using AI for things they really cared about, like character design—those they did manually. It was impressive to see the thought and detail that went into the character art.
+- A couple of them had coding experience (Python, some JavaScript). Still, more than 95% of the code was AI-generated—over 1,000 lines per project.
+- Their use of AI tools had been limited before this. They were genuinely impressed with how much they could accomplish in a short time. One student who codes in Python said this would have taken him a month on his own. That says a lot.
+
 
 
 
